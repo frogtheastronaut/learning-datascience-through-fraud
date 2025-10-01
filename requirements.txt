@@ -1,0 +1,25 @@
+# science stack
+numpy==1.26.4
+pandas==2.2.2
+
+# don't use latest
+scikit-learn==1.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# ML
+xgboost==2.1.1
+imbalanced-learn==0.12.3
+
+# explainability
+shap==0.45.1
+
+# jupyter
+jupyterlab==4.2.5
+ipykernel==6.29.5
+
+# api deployment
+fastapi==0.115.0
+uvicorn==0.30.6
+
+joblib==1.4.2     # for saving/loading models
